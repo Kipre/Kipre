@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="train.gif">
+  <img width='600px' height='400px' src="train.gif">
 </p>
